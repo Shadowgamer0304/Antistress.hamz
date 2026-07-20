@@ -15,7 +15,7 @@ const pauseBtn = document.getElementById('pauseBtn');
 const resetBtn = document.getElementById('resetBtn');
 
 // Sound effect for bubble pop
-const popSound = new Audio('https://cdn.pixabay.com/download/audio/2022/01/07/audio_5a59b8db82-66a2d6d0?filename=film-special-effects-bubble-pop-06-351337.mp3');
+const popSound = new Audio('https://pixabay.com/sound-effects/download/351337');
 popSound.volume = 0.5; // Set volume to 50%
 
 // Bubble class
